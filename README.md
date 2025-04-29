@@ -2,6 +2,12 @@
 
 Este projeto configura uma stack de observabilidade usando Docker, que inclui um banco de dados PostgreSQL, um exportador de métricas para PostgreSQL, o Prometheus para monitoramento e o Grafana para visualização. O objetivo é fornecer uma solução completa para monitorar a saúde e o desempenho do banco de dados PostgreSQL.
 
+## Fluxo do Projeto
+
+Abaixo está o diagrama representando o fluxo do projeto:
+
+![Fluxo do Projeto](img/Diagrama.png)
+
 ## Estrutura do Projeto
 
 Abaixo está a estrutura de pastas do projeto:
